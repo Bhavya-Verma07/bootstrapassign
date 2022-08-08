@@ -1,0 +1,12 @@
+<p>
+        Mumbai, the capital city of Maharashtra is called the “city of dreams” or “Mayanagri” as they call.
+        It has gained this epithet over the years not just because it offers limitless opportunities for the Indian citizens across the states, but also for people across the borders.
+        Here’s why Mumbai is called the city of dreams.
+        <ul>
+          <li>Commercial Center of India</li>
+          <li>The Bollywood Bling and the Largest Film City in India</li>
+          <li>Splendid Architecture</li>
+          <li>Heaven for Migrants</li>
+          <li>City of Riches and Great Success Stories</li>
+        </ul>
+      </p>
